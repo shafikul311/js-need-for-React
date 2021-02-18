@@ -44,6 +44,8 @@ console.log(obj2);
 
 
 
+// new array using ...
+
 // numbers.push(56);
 const newNumbers = [...numbers ,56];
 console.log(newNumbers);
